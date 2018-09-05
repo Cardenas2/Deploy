@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 27, 2018 12:10 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.7
+PHP INFO:	7.2.1 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2h mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.2.1 mod_perl/2.0.8 Perl/v5.16.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 6MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20180727_kleanersa_1337c22c963700255052180727000943_database.sql 
+SQL FILE SIZE: 1.18MB (1236874) 
+SQL FILE TIME: 2018-07-27 00:10:12 
+SQL RUNTIME: 0.43 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/MAMP/htdocs/kleanerSA 
+ARCHIVE FILE: 20180727_kleanersa_1337c22c963700255052180727000943_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	54.67MB 
+STATS:	Dirs 362 | Files 2,999 
+SQL ADDED: 20180727_kleanersa_1337c22c963700255052180727000943_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3361
+    [filename] => C:\MAMP\htdocs\kleanerSA\wp-snapshots\tmp\20180727_kleanersa_1337c22c963700255052180727000943_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 20.31MB 
+ARCHIVE RUNTIME: 50.59 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/MAMP/htdocs/kleanerSA/wp-snapshots/tmp/20180727_kleanersa_1337c22c963700255052180727000943_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.18MB 
+Installer File: 445.86KB 
+Archive File: 20.31MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 57.06 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20180727_kleanersa July 27, 2018 12:11 am
+ 
